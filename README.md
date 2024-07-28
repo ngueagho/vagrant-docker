@@ -1,5 +1,5 @@
 # vagrant-docker
-Infrastructure as Code (IaC) with Vagrant
+Infrastructure as Code (IaC) with Vagrant 
 
 ---
 
